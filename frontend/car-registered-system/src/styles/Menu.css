@@ -1,0 +1,23 @@
+.menuMain{
+    width: 220px;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    height: 650px;
+
+   
+}
+.menuMain a{
+    text-decoration: none;
+}
+.menuMain a.active{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:slategrey;
+    color: white;
+    border-radius: 5px;
+    width: 200px;
+    
+    
+  }
+
